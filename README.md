@@ -1,16 +1,13 @@
-## Hi there 👋
+# xd的GitHub主页
+欢迎来到我的主页！我是一个计算机专业在读本科生，对编程感兴趣，在努力提升水平中。
 
-<!--
-**lijiatuluy/lijiatuluy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* **兴趣爱好**   
+  - 敲代码 感觉仅用0和1创造出一个宏大的数字世界是一件很酷的事情
+  - 阅读 靠文字创造出一个个鲜活的人物也很酷
+* 目前掌握的技能    
+  - C语言
+  - C++
+  - SQL
+* 期望    
+  希望通过未来两年的学习，提高代码能力，多参与一些项目，积累实战经验，将所学的技能用于生产生活中。
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
